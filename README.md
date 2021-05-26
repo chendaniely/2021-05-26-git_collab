@@ -22,3 +22,8 @@
 - Also see branch delete above
 - `git log --oneline --graph --all`: show you git history
 - `git fetch --prune`: clean up your git history
+
+## Conflicts
+
+You won't know it's going to happen until it does.
+
