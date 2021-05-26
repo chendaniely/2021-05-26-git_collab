@@ -13,10 +13,6 @@
 - `git switch -c <NAME>`: create and switch to branch 1 command
     - `git checkout -b <NAME>` same using checkout
 
-## Conflicts
-
-- `git rebase <BRANCH>`: e.g., <MAIN> will update current branch
-
 ## Pull Requests
 
 - Also see branch delete above
@@ -26,4 +22,4 @@
 ## Conflicts
 
 You won't know it's going to happen until it does.
-
+- `git rebase <BRANCH>`: e.g., <MAIN> will update current branch
