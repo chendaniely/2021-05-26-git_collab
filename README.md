@@ -9,3 +9,4 @@
   - `git checkout <branchName>`: kinda does the same 
 - `git switch -c <branchName>`: creates and switches to new branch 
   - `git checkout -b <branchName>`
+
